@@ -1,0 +1,21 @@
+app.model package
+=================
+
+Submodules
+----------
+
+app.model.model module
+----------------------
+
+.. automodule:: app.model.model
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: app.model
+   :members:
+   :undoc-members:
+   :show-inheritance:
